@@ -34,7 +34,7 @@ To run the benchmarks:
    - `YOUR TENANT ID HERE`: Replace with your Azure Active Directory tenant ID.
    - `YOUR CLIENT ID HERE`: Replace with your client ID.
    - `YOUR CLIENT SECRET HERE`: Replace with your client secret.																
-4.Exucute the following commands in the terminal:
+4. Exucute the following commands in the terminal:
    - `dotnet restore`
    - `dotnet build`
    - `dotnet run -c Release`
